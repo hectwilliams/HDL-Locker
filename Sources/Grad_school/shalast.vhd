@@ -193,7 +193,7 @@ state_reg1
     C4<= state_reg5 xor state_reg10  xor state_reg15 xor state_reg20 xor state_reg25;
 
 
-   REQUEST TO SEE FULL CODE !!
+REQUEST FOR REMAINING MODULE CODE !!!
 
 
 

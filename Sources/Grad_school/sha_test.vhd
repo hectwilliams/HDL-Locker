@@ -103,7 +103,7 @@ signal Chi_output: std_logic_vector(1599 downto 0);
 
 
 
-   REQUEST TO SEE FULL CODE !!
+REQUEST FOR REMAINING MODULE CODE !!!
 
   
   

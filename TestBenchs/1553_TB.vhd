@@ -93,7 +93,7 @@ signal state_z         : state_t;
 
 
 
-REQUEST FOR CODE !!!
+REQUEST FOR REMAINING MODULE CODE !!!
 
 
 end do_it; 
